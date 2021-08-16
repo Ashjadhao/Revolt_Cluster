@@ -1,0 +1,20 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=f1.stp
+Dependencies=
+
+[Project1]
+Filename=..\stm8al_slave\slave_al.stp
+Dependencies=
+
+[Project2]
+Filename=..\master_al\master_al.stp
+Dependencies=
+[Options]
+ActiveProject=f1
+ActiveConfig=Debug
+AddSortedElements=1
